@@ -1,0 +1,72 @@
+Chespin, 650, Grass, None, 56, 61, 65, 48, 45, 38, Field, Chespin -> Quilladin -> Chesnaught
+Quilladin, 651, Grass, None, 61, 78, 95, 56, 58, 57, Field, Chespin -> Quilladin -> Chesnaught
+Chesnaught, 652, Grass, Fighting, 88, 107, 122, 74, 75, 64, Field, Chespin -> Quilladin -> Chesnaught
+Fennekin, 653, Fire, None, 40, 45, 40, 62, 60, 60, Field, Fennekin -> Braixen -> Delphox
+Braixen, 654, Fire, None, 59, 59, 58, 90, 70, 73, Field, Fennekin -> Braixen -> Delphox
+Delphox, 655, Fire, Psychic, 75, 69, 72, 114, 100, 104, Field, Fennekin -> Braixen -> Delphox
+Froakie, 656, Water, None, 41, 56, 40, 62, 44, 71, Water 1, Froakie -> Frogadier -> Greninja
+Frogadier, 657, Water, None, 54, 63, 52, 83, 56, 97, Water 1, Froakie -> Frogadier -> Greninja
+Greninja, 658, Water, Dark, 72, 95, 67, 103, 71, 122, Water 1, Froakie -> Frogadier -> Greninja
+Bunnelby, 659, Normal, None, 38, 36, 38, 32, 36, 57, Field, Bunnelby -> Diggersby
+Diggersby, 660, Normal, Ground, 85, 56, 77, 50, 77, 78, Field, Bunnelby -> Diggersby
+Fletchling, 661, Normal, Flying, 45, 50, 43, 40, 38, 62, Flying, Fletchling -> Fletchinder -> Talonflame
+Fletchinder, 662, Fire, Flying, 62, 73, 55, 56, 52, 84, Flying, Fletchling -> Fletchinder -> Talonflame
+Talonflame, 663, Fire, Flying, 78, 81, 71, 74, 69, 126, Flying, Fletchling -> Fletchinder -> Talonflame
+Scatterbug, 664, Bug, None, 38, 35, 40, 27, 25, 35, Bug, Scatterbug -> Spewpa -> Vivillon
+Spewpa, 665, Bug, None, 45, 22, 60, 27, 30, 29, Bug, Scatterbug -> Spewpa -> Vivillon
+Vivillon, 666, Bug, Flying, 80, 52, 50, 90, 50, 89, Bug, Scatterbug -> Spewpa -> Vivillon
+Litleo, 667, Fire, Normal, 62, 50, 58, 73, 54, 72, Field, Litleo -> Pyroar
+Pyroar, 668, Fire, Normal, 86, 68, 72, 109, 66, 106, Field, Litleo -> Pyroar
+Flabébé, 669, Fairy, None, 44, 38, 39, 61, 79, 42, Fairy, Flabébé -> Floette -> Florges
+Floette, 670, Fairy, None, 54, 45, 47, 75, 98, 52, Fairy, Flabébé -> Floette -> Florges
+Florges, 671, Fairy, None, 78, 65, 68, 112, 154, 75, Fairy, Flabébé -> Floette -> Florges
+Skiddo, 672, Grass, None, 66, 65, 48, 62, 57, 52, Field, Skiddo -> Gogoat
+Gogoat, 673, Grass, None, 123, 100, 62, 97, 81, 68, Field, Skiddo -> Gogoat
+Pancham, 674, Fighting, None, 67, 82, 62, 46, 48, 43, Field, Pancham -> Pangoro
+Pangoro, 675, Fighting, Dark, 95, 124, 78, 69, 71, 58, Field, Pancham -> Pangoro
+Furfrou, 676, Normal, None, 75, 80, 60, 65, 90, 102, Field, N/A
+Espurr, 677, Psychic, None, 62, 48, 54, 63, 60, 68, Field, Espurr -> Meowstic
+Meowstic, 678, Psychic, None, 74, 48, 76, 83, 81, 104, Field, Espurr -> Meowstic
+Honedge, 679, Steel, Ghost, 45, 80, 100, 35, 37, 28, Mineral, Honedge -> Doublade -> Aegislash
+Doublade, 680, Steel, Ghost, 59, 110, 150, 45, 49, 35, Mineral, Honedge -> Doublade -> Aegislash
+Aegislash, 681, Steel, Ghost, 60, 50, 150, 50, 150, 60, Mineral, Honedge -> Doublade -> Aegislash
+Spritzee, 682, Fairy, None, 78, 52, 60, 63, 65, 23, Fairy, Spritzee -> Aromatisse
+Aromatisse, 683, Fairy, None, 101, 72, 72, 99, 89, 29, Fairy, Spritzee -> Aromatisse
+Swirlix, 684, Fairy, None, 62, 48, 66, 59, 57, 49, Fairy, Swirlix -> Slurpuff
+Slurpuff, 685, Fairy, None, 82, 80, 86, 85, 75, 72, Fairy, Swirlix -> Slurpuff
+Inkay, 686, Dark, Psychic, 53, 54, 53, 37, 46, 45, Water 1, Inkay -> Malamar
+Malamar, 687, Dark, Psychic, 86, 92, 88, 68, 75, 73, Water 1, Inkay -> Malamar
+Binacle, 688, Rock, Water, 42, 52, 67, 39, 56, 50, Water 3, Binacle -> Barbaracle
+Barbaracle, 689, Rock, Water, 72, 105, 115, 54, 86, 68, Water 3, Binacle -> Barbaracle
+Skrelp, 690, Poison, Water, 50, 60, 60, 60, 60, 30, Water 1, Skrelp -> Dragalge
+Dragalge, 691, Poison, Dragon, 65, 75, 90, 97, 123, 44, Water 1, Skrelp -> Dragalge
+Clauncher, 692, Water, None, 50, 53, 62, 58, 63, 44, Water 1, Clauncher -> Clawitzer
+Clawitzer, 693, Water, None, 71, 73, 88, 120, 89, 59, Water 1, Clauncher -> Clawitzer
+Helioptile, 694, Electric, Normal, 44, 38, 33, 61, 43, 70, Monster, Helioptile -> Heliolisk
+Heliolisk, 695, Electric, Normal, 62, 55, 52, 109, 94, 109, Monster, Helioptile -> Heliolisk
+Tyrunt, 696, Rock, Dragon, 58, 89, 77, 45, 45, 48, Monster, Tyrunt -> Tyrantrum
+Tyrantrum, 697, Rock, Dragon, 82, 121, 119, 69, 59, 71, Monster, Tyrunt -> Tyrantrum
+Amaura, 698, Rock, Ice, 77, 59, 50, 67, 63, 46, Monster, Amaura -> Aurorus
+Aurorus, 699, Rock, Ice, 123, 77, 72, 99, 92, 58, Monster, Amaura -> Aurorus
+Sylveon, 700, Fairy, None, 95, 65, 65, 110, 130, 60, Field, Sylveon -> None
+Hawlucha, 701, Fighting, Flying, 78, 92, 75, 74, 63, 118, Flying, Hawlucha -> None
+Dedenne, 702, Electric, Fairy, 67, 58, 57, 81, 67, 101, Field, Dedenne -> None
+Carbink, 703, Rock, Fairy, 50, 50, 150, 50, 150, 50, Fairy, Carbink -> None
+Goomy, 704, Dragon, None, 45, 50, 35, 55, 75, 40, Dragon, Goomy -> Sliggoo
+Sliggoo, 705, Dragon, None, 68, 75, 53, 83, 113, 60, Dragon, Goomy -> Sliggoo -> Goodra
+Goodra, 706, Dragon, None, 90, 100, 70, 110, 150, 80, Dragon, Goodra -> None
+Klefki, 707, Steel, Fairy, 57, 80, 91, 80, 87, 75, Mineral, Klefki -> None
+Phantump, 708, Ghost, Grass, 43, 70, 48, 50, 60, 38, Grass, Phantump -> Trevenant
+Trevenant, 709, Ghost, Grass, 85, 110, 76, 65, 82, 56, Grass, Phantump -> Trevenant
+Pumpkaboo, 710, Ghost, Grass, 49, 66, 70, 44, 55, 51, Amorphous, Pumpkaboo -> Gourgeist
+Gourgeist, 711, Ghost, Grass, 65, 90, 122, 58, 75, 84, Amorphous, Pumpkaboo -> Gourgeist
+Bergmite, 712, Ice, None, 55, 69, 85, 32, 35, 28, Monster, Bergmite -> Avalugg
+Avalugg, 713, Ice, None, 95, 117, 184, 44, 46, 28, Monster, Bergmite -> Avalugg
+Noibat, 714, Flying, Dragon, 40, 30, 35, 45, 40, 55, Flying, Noibat -> Noivern
+Noivern, 715, Flying, Dragon, 85, 70, 80, 97, 80, 123, Flying, Noibat -> Noivern
+Xerneas, 716, Fairy, None, 126, 131, 95, 131, 98, 99, Undiscovered, Xerneas -> None
+Yveltal, 717, Dark, Flying, 126, 131, 95, 131, 98, 99, Undiscovered, Yveltal -> None
+Zygarde, 718, Dragon, Ground, 108, 100, 121, 81, 95, 95, Undiscovered, Zygarde -> None
+Diancie, 719, Rock, Fairy, 50, 100, 150, 100, 150, 50, Undiscovered, Diancie -> None
+Hoopa, 720, Psychic, Ghost, 80, 110, 60, 150, 130, 70, Undiscovered, Hoopa -> None
+Volcanion, 721, Fire, Water, 80, 110, 120, 130, 90, 70, Undiscovered, Volcanion -> None
